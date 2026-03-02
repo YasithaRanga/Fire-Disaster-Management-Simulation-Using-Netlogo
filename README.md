@@ -571,7 +571,7 @@ This project is developed for educational purposes as part of the DSA 560 2.0 Mu
 ## Authors
 
 - Project developed for Multi-Agent Systems course
-- University of Moratuwa / Academic Institution
+- University of Sri Jayewardenepura
 
 ---
 
